@@ -24,6 +24,5 @@ const App = (props) => {
   );
 };
 
-exp
 
 export default App
